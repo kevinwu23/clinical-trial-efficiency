@@ -8,7 +8,7 @@ The files found in /models contain the weights and parameters for models train t
 
 <dl>
 <dt>Efficiency Metrics</dt>
-  
+  <br>
   <dd>Screen Failure Ratio</dd>
   <dd>Dropout Ratio</dd>
   <dd>Pre-enrollment Duration</dd>
