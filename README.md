@@ -6,13 +6,15 @@ This repository contains models from a collaborative project between Stanford an
 
 The files found in /models contain the weights and parameters for models train to predict six efficiency metrics, listed below:
 
+<dl>
 <dt>Efficiency Metrics</dt>
-  <dl>Screen Failure Ratio</dl>
-  <dl>Dropout Ratio</dl>
-  <dl>Pre-enrollment Duration</dl>
-  <dl>Enrollment Duration</dl>
-  <dl>Trial Duration</dl>
-  <dl>Total Enrollment</dl>
+  <dd>Screen Failure Ratio</dd>
+  <dd>Dropout Ratio</dd>
+  <dd>Pre-enrollment Duration</dd>
+  <dd>Enrollment Duration</dd>
+  <dd>Trial Duration</dd>
+  <dd>Total Enrollment</dd>
+</dl>
 
 The models are implemented in [Light GBM](https://github.com/microsoft/LightGBM) and can be loaded easily:
 
