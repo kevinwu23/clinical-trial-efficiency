@@ -1,6 +1,16 @@
 # Machine Learning Prediction of Clinical Trial Operational Efficiency
 
-This repository contains the model weights and parameters for six efficiency metrics.
+
+
+This repository contains the weights and parameters for models train to predict six efficiency metrics, from a collaborative project between Stanford and Genentech, a part of the Roche group.
+
+<dt>Screen Failure Ratio</dt>
+<dt>Dropout Ratio</dt>
+<dt>Pre-enrollment Duration</dt>
+<dt>Enrollment Duration</dt>
+<dt>Trial Duration</dt>
+<dt>Total Enrollment</dt>
+
 The models are implemented in [Light GBM](https://github.com/microsoft/LightGBM) and can be loaded easily:
 
 ```python
