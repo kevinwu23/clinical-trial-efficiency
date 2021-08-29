@@ -1,7 +1,7 @@
 # Machine Learning Prediction of Clinical Trial Operational Efficiency
 
 This repository contains the model weights and parameters for six efficiency metrics.
-The models are implemented in (https://github.com/microsoft/LightGBM "LightGBM") and can be loaded easily:
+The models are implemented in [Light GBM](https://github.com/microsoft/LightGBM) and can be loaded easily:
 
 ```python
 import lightgbm as lgb
